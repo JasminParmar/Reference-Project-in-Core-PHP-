@@ -1,6 +1,6 @@
 # Reference-Project-in-PHP
 
-This is simple Academic Project in Core PHP. 
+This is simple Reference(Academic) Project in Core PHP. 
 This website is on "Backery Shop" which is fully dynamic. 
 In this website, 'AddToCart' Module is not done, means without 'AddToCart' module.
 This website contains- 
